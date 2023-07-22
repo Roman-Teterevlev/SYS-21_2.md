@@ -73,8 +73,7 @@ listen web_tcp
         server s1 127.0.0.1:8888 check inter 3s
         server s2 127.0.0.1:9999 check inter 3s
 ```
-
-
+![alt text](https://github.com/Roman-Teterevlev/SYS-21_2.md/blob/main/2.md_1.1.png)
 
 ---
 
@@ -153,8 +152,7 @@ backend web_servers    # секция бэкенд
         #server s1 127.0.0.1:8888 check inter 3s
         #server s2 127.0.0.1:9999 check inter 3s
 ```
-
-
+![alt text](https://github.com/Roman-Teterevlev/SYS-21_2.md/blob/main/2.md_2.1.png)
 
 ---
 
@@ -249,7 +247,6 @@ backend web_server2    # секция бэкенд
         #server s1 127.0.0.1:8888 check inter 3s
         #server s2 127.0.0.1:9999 check inter 3s
 ```
-
-
+![alt text](https://github.com/Roman-Teterevlev/SYS-21_2.md/blob/main/2.md_4.1.png)
 
 ---
